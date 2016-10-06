@@ -1,6 +1,6 @@
 spring:
   application:
-    name: sample-noun
+    name: sample-sentence
   cloud:
      config:
        uri: http://localhost:8001

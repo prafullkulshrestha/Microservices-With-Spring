@@ -1,3 +1,6 @@
 spring:
   application:
     name: sample-article
+  cloud:
+     config:
+       uri: http://localhost:8001
